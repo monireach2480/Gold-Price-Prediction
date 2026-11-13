@@ -1,0 +1,5 @@
+,days_observed,days_expected_if_normal,observed_over_expected
+|z| > 2,304,290.383,1.0
+|z| > 3,84,17.23,4.9
+|z| > 4,34,0.404,84.1
+|z| > 5,13,0.004,3553.1

@@ -1,0 +1,14 @@
+# Versions used for the run reported in report/Gold_Price_Prediction_Report.pdf (Python 3.13)
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+statsmodels==0.15.0
+scikit-learn==1.9.1
+xgboost==3.4.1
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# To open and run the notebook
+jupyterlab
+nbconvert
+ipykernel

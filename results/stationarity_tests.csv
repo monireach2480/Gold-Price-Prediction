@@ -1,0 +1,4 @@
+series,ADF_statistic,ADF_p,KPSS_statistic,KPSS_p,verdict
+Close,5.297599195778403,1.0,9.083992732064111,0.01,not stationary
+log(Close),0.02525805573618412,0.9605717271712013,10.267621764875498,0.01,not stationary
+Daily log return,-25.451186026911294,0.0,0.19493180165549806,0.1,stationary

@@ -1,0 +1,8 @@
+,missing_rows,share_of_rows_%,window_length,first_valid_date,all_missing_rows_at_the_start
+Price_Change,1,0.02,1,2000-08-31,True
+Price_Change_Percent,1,0.02,1,2000-08-31,True
+MA_7,6,0.09,7,2000-09-08,True
+MA_30,29,0.45,30,2000-10-11,True
+MA_90,89,1.39,90,2001-01-09,True
+MA_365,364,5.7,365,2002-02-20,True
+Volatility_30d,30,0.47,30,2000-10-12,True

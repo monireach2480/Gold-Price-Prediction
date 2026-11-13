@@ -1,0 +1,10 @@
+,rows,share_of_rows_%
+Close above High,223,3.49
+Close below Low,207,3.24
+"Close outside [Low, High] (either)",430,6.74
+"Open outside [Low, High]",56,0.88
+Flat bar: Open = High = Low = Close,812,12.72
+High equals Low,1040,16.29
+Zero volume,418,6.55
+Close unchanged from previous day,45,0.7
+Zero or negative price,0,0.0

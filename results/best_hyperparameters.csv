@@ -1,0 +1,7 @@
+,Task A (return),Task B (direction),Task C (size)
+Linear Regression,{},,{}
+Ridge,{'model__alpha': 100000},,{'model__alpha': 1000}
+Lasso,{'model__alpha': 0.1},,{'model__alpha': 0.03}
+Random Forest,"{'max_depth': 2, 'min_samples_leaf': 200}","{'max_depth': 4, 'min_samples_leaf': 100}","{'max_depth': 8, 'min_samples_leaf': 50}"
+XGBoost,"{'learning_rate': 0.005, 'max_depth': 1, 'min_child_weight': 100}","{'learning_rate': 0.005, 'max_depth': 2, 'min_child_weight': 100}","{'learning_rate': 0.01, 'max_depth': 3, 'min_child_weight': 100}"
+Logistic Regression,,{'model__C': 0.0001},

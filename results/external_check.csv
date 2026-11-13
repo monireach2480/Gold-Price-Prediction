@@ -1,0 +1,4 @@
+date,reported,reported_change,source,dataset_change,dataset_close,dataset_change_%,difference_in_change
+2008-09-17,"up $70 (9%), December contract settled at $850.50",70.0,CNNMoney (2008),70.1,846.6,9.03,0.1
+2013-04-15,"down $140.30 (9%) to $1,361",-140.3,"Associated Press (Rothwell, 2013)",-140.4,1360.6,-9.35,-0.1
+2025-10-21,"front month down $248.70 (5.7%) to settle at $4,087.70",-248.7,"InvestmentNews (Almazora, 2025)",-248.7,4087.7,-5.74,0.0

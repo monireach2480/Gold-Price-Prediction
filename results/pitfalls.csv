@@ -1,0 +1,7 @@
+,split,RMSE_$,MAE_$,MAPE_%,R2
+"A. Today's Close from today's Open, High, Low and averages",chronological,11.198670100237162,6.210149178901757,0.24162638528460179,0.999793322956097
+"B. Random forest on price levels, shuffled 80/20 split",shuffled,23.283879811569825,12.147590159052964,0.8956485996142726,0.9990883265162585
+   Naive forecast on the same shuffled rows,shuffled,26.72163671324179,11.52599522283307,0.827529710323029,0.9987992440800809
+"C. Random forest on price levels, chronological split",chronological,926.5641082297344,557.4601201518267,16.903290781285715,-0.40147628443990535
+"   Linear regression on price levels, chronological split",chronological,37.941162516124606,21.25943506322557,0.7979693050862021,0.9976500637875202
+"   Naive forecast (tomorrow = today), chronological split",chronological,37.599519459355015,21.014574056464102,0.7921914727573691,0.9976921934817378
